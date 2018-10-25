@@ -1,5 +1,8 @@
 # hello-world
 A repository for storing my project ideas: <hr/>
-Murder (Mafia party game clone)
-Trade game (Fantasy shop simulation)
-?????
+- <hr/>
+- <hr/>
+- <hr/>
+- <hr/>
+- <hr/>
+Stuff: OpenChart, Game Off, PhiCentre/Evenement/Echo-fr, LÖVE, C/C++, HTML/CSS/JS...
