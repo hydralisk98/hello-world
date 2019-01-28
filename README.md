@@ -1,2 +1,6 @@
 # hello-world
-Stuff: OpenChart, Game Off, PhiCentre/Evenement/Echo-fr, LÖVE, C/C++, HTML/CSS/JS...
+Stuff: OpenChart, LÖVE, C/C++/C#, Common Lisp, Python, BF, Lua, HTML/CSS/JS//PHP/SQL...<br>
+# Black-Angora
+Ideas for our site: Surveys, <b>Magazine</b>, Social Bookmarking, Cryptocurrency,
+Questions and Answers, Second hand, Handmade, Gifts, Unusual Languages, Artworks..
+. themed around microlearning (Tech, Linguistics, Religion, Philosophy, etc.)
