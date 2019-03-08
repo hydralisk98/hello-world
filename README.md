@@ -1,8 +1,8 @@
-#first-project-formula
+# first-project-formula<br>
 	- Interesting<br>
 	- Simple<br>
 	- Useful<br>
-#easy-projects
+# easy-projects<br>
 	- Caesar cipher<br>
 	- Morse<br>
 	- Braille<br>
