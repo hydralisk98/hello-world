@@ -1,8 +1,46 @@
-# hello-world
-Stuff: OpenChart, LÖVE, C/C++/C#, Common Lisp, Python, BF, Lua, HTML/CSS/JS/PHP/SQL...<br>
-# old-stuff
-Ideas for our site: Surveys, <b>Magazine</b>, Social Bookmarking, Cryptocurrency,
-Questions and Answers, Second hand, Handmade, Gifts, Unusual Languages, Artworks...
-themed around microlearning (Tech, Linguistics, Religion, Philosophy, etc.)
-# Black-Angora
-Idea: Imagine Scribblenauts using a mini half programming half constucted langage
+# first-project-formula
+	- Interesting<br>
+	- Simple<br>
+	- Useful<br>
+# easy-projects
+	- Caesar cipher<br>
+	- Morse<br>
+	- Braille<br>
+	- Base converter<br>
+	- Time tracker<br>
+	- Weather fetcher<br>
+	- Quizzes<br>
+	- Sort CSV file utility<br>
+	- Watermarking<br>
+	- Dice roller<br>
+	- Random article selector<br>
+	- Random article generator<br>
+	- Watch for new articles<br>
+	- Mad libs<br>
+	- Language game<br>
+	- Rock paper scissors game<br>
+	- Coin estimator<br>
+	- Magic 8 ball<br>
+	- 99 bottles<br>
+	- MIDI controller<br>
+	- Random generators<br>
+	- Count words in a string<br>
+	- Minesweeper<br>
+	- Maze generator<br>
+	- Maze solver<br>
+	- Card game<br>
+	- Perlin noise<br>
+	- Mastermind<br>
+	- Typing speed game, tutor and calculator<br>
+	- Quine<br>
+	- Geekcode generator<br>
+	- Guess the number<br>
+	- Flashcards<br>
+	- Cellular automata<br>
+	- D&D character generator<br>
+	- Files organizer<br>
+	- Chess game<br>
+	- Alchemy<br>
+	- Console-based block sandbox<br>
+	- "Social life" reminder per person<br>
+	
