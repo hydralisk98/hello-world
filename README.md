@@ -43,4 +43,72 @@
 	- Alchemy<br>
 	- Console-based block sandbox<br>
 	- "Social life" reminder per person<br>
-	
+	- Morse Code Converter<br>
+	- Base Converter<br>
+	- Word Frequency Counter<br>
+	- Reciprocal Letters<br>
+	- Is That an IP Address<br>
+	- String Compression<br>
+	- Sort a String<br>
+	- Remove Spaces from a String<br>
+	- Scrabble<br>
+	- PHP Date/Time<br>
+	- Sorting Algorithms<br>
+	- Converting Decimal Values to Binary Numbers<br>
+	- RGB(A) to HEX Converter<br>
+	- AngularJS<br>
+	- Joy.js<br>
+	- Git<br>
+	- Unix-like Shell<br>
+	- Node.js
+	- NumPy<br>
+	- Text Adventure<br>
+	- Data Structures<br>
+	- Time Complexity<br>
+	- LCM and HCF<br>
+	- Multiplying Large Integers<br>
+	- Salted Passwords<br>
+	- Decision Tree<br>
+	- Ruby Modules<br>
+	- Regular Expressions<br>
+	- API<br>
+	- Symmetric Encryption<br>
+	- Virtual Assistant<br>
+	- ASCII Converter<br>
+	- Learn by teaching<br>
+	- Cartoonish<br>
+	- Build a bot<br>
+	- Data Analyser<br>
+	- Web Day<br>
+	- Custom Interpreter<br>
+	- Design Patterns<br>
+	- AMA<br>
+	- Mars Rover<br>
+	- Valid Binary String<br>
+	- Telephone Number<br>
+	- Monday<br>
+	- Scientific Notation<br>
+	- Long Adder<br>
+	- Simple Search Engine<br>
+	- 2D Web Game<br>
+	- Vowels<br>
+	- IPA Voice Synthesis<br>
+	- Mutant Hash Table<br>
+	- Chess Engine<br>
+	- Defend the Base<br>
+	- The Crypto-Cube<br>
+	- Candy Robots<br>
+	- FIFA World Cub 2018<br>
+	- Crack the Code<br>
+	- Hack the Server<br>
+	- Histogram<br>
+	- Paranoia<br>
+	- Clock Hands<br>
+	- Remove/Replace Special Characters<br>
+	- Gallery<br>
+	- Sound Album<br>
+	- ASCII demo<br>
+	- Creating a character with just HTML/CSS<br>
+	- Dynamic Search Bar<br>
+	- Roman Numerals<br>
+	- Number to Text Converter<br>
