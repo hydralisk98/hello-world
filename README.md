@@ -112,3 +112,42 @@
 	- Dynamic Search Bar<br>
 	- Roman Numerals<br>
 	- Number to Text Converter<br>
+# Maskutchew, an artlang<br>
+First purpose: Iterating on ideas I get to think or whisper to myself about without disturbing anyone aka thinking politely for autistic personalities<br>
+## Inspirations
+German, 
+French, 
+English, 
+Portuguese, 
+Latin, 
+Spanish, 
+Hungarian, 
+Turkish, 
+Assyrian, 
+Odi(y)a, 
+Korean,
+Russian,
+[...]<br>
+
+# elegant-booksword
+## Template:
+Phonology<br>
+Phonotactics<br>
+Vocabulary/Lexicon<br>
+Grammar<br>
+Writing system(s)<br>
+Written form practicing<br>
+Oral form practicing<br>
+[...]<br><br>
+## outside resources:
+Mark Rosenfelder's LCK<br>
+Quora<br>
+Artifexian on YT<br>
+Biblaridion on YT<br>
+Conlang Critic on YT<br>
+David Peterson on YT<br>
+Worldbuilding Notes on YT<br>
+Esperantanaso on YT?<br>
+Microlearning app?<br>
+[...]<br>
+
