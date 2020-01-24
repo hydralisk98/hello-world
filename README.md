@@ -131,24 +131,8 @@
 	- Website<br>
 	[...]<br>
 <br>
-# Maskutchew-a-artlang<br>
-First purpose: Iterating on ideas I get to think or whisper to myself about without disturbing anyone aka thinking politely for autistic personalities<br>
-## Inspirations
-German, 
-French, 
-English, 
-Portuguese, 
-Latin, 
-Spanish, 
-Hungarian, 
-Turkish, 
-Assyrian, 
-Odi(y)a, 
-Korean,
-Russian,
-[...]<br>
 
-# elegant-booksword
+# elegant booksword
 ## Template:
 Phonology<br>
 Phonotactics<br>
