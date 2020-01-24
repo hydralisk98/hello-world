@@ -53,118 +53,85 @@
 	- Interesting<br>
 	- Useful<br>
 	- Simple<br>
-# easy-projects<br>
-	- Caesar cipher<br>
-	- Morse<br>
-	- Braille<br>
-	- Base converter<br>
-	- Time tracker<br>
-	- Weather fetcher<br>
-	- Quizzes<br>
-	- Sort CSV file utility<br>
-	- Watermarking<br>
-	- Dice roller<br>
-	- Random article selector<br>
-	- Random article generator<br>
-	- Watch for new articles<br>
-	- Mad libs<br>
-	- Language game<br>
-	- Rock paper scissors game<br>
-	- Coin estimator<br>
-	- Magic 8 ball<br>
-	- 99 bottles<br>
-	- MIDI controller<br>
-	- Random generators<br>
-	- Count words in a string<br>
+# zine-easy-projects<br>
+	- Web browser<br>
+	- Web server<br>
+	- Keypad<br>
+	- Keyboard<br>
+	- Linux distro<br>
+	- High-level programming language<br>
+	- B-equivalent or C-equivalent programming language<br>
+	- Lisp dialect programming language<br>
+	- Scripting language<br>
+	- Instruction set<br>
+	- Assembly language<br>
+	- Emulator<br>
+	- Computer hardware implementation<br>
+	- Music player<br>
+	- Calculator<br>
+	- Vocabulary games<br>
+	- Typing game<br>
+	- Logic puzzle game<br>
+	- Animations<br>
+	- Slideshow<br>
+	- Drawings<br>
+	- Subliminal Affirmations<br>
+	- Webcomic<br>
+	- Grand strategy game<br>
+	- DCPU-16 Minecraft demo clone<br>
+	- 3D plateformer<br>
+	- FPS<br>
+	- Top down 'racing game' about exploration<br>
+	- RTS<br>
 	- Minesweeper<br>
-	- Maze generator<br>
-	- Maze solver<br>
+	- Clock<br>
+	- MIDI player<br>
+	- Map game<br>
+	- Election game<br>
+	- Nation game<br>
+	- Floppy drive<br>
+	- Papertape drive<br>
+	- Punch cards reader<br>
+	- Cassettes<br>
+	- Datasettes<br>
 	- Card game<br>
-	- Perlin noise<br>
-	- Mastermind<br>
-	- Typing speed game, tutor and calculator<br>
-	- Quine<br>
-	- Geekcode generator<br>
+	- Quizzes<br>
+	- Dice roller<br>
 	- Guess the number<br>
+	- Count words<br>
+	- Poetry composition helper (Vowel sonority stats and suggestions)<br>
+	- Maze generator<br>
+	- Procedural text generators<br>
+	- Perlin noise-based generators<br>
+	- Ray marching engine<br>
+	- Non-euclidean physics engine<br>
+	- Text adventure game<br>
+	- Mastermind variant<br>
 	- Flashcards<br>
 	- Cellular automata<br>
-	- D&D character generator<br>
+	- TTRPG character generator<br>
+	- Chess<br>
 	- Files organizer<br>
-	- Chess game<br>
-	- Alchemy<br>
-	- Console-based block sandbox<br>
-	- "Social life" reminder per person<br>
-	- Morse Code Converter<br>
-	- Base Converter<br>
-	- Word Frequency Counter<br>
-	- Reciprocal Letters<br>
-	- Is That an IP Address<br>
-	- String Compression<br>
-	- Sort a String<br>
-	- Remove Spaces from a String<br>
-	- Scrabble<br>
-	- PHP Date/Time<br>
-	- Sorting Algorithms<br>
-	- Converting Decimal Values to Binary Numbers<br>
-	- RGB(A) to HEX Converter<br>
-	- AngularJS<br>
-	- Joy.js<br>
-	- Git<br>
-	- Unix-like Shell<br>
-	- Node.js
-	- NumPy<br>
-	- Text Adventure<br>
-	- Data Structures<br>
-	- Time Complexity<br>
-	- LCM and HCF<br>
-	- Multiplying Large Integers<br>
-	- Salted Passwords<br>
-	- Decision Tree<br>
-	- Ruby Modules<br>
-	- Regular Expressions<br>
-	- API<br>
-	- Symmetric Encryption<br>
-	- Virtual Assistant<br>
-	- ASCII Converter<br>
-	- Learn by teaching<br>
-	- Cartoonish<br>
-	- Build a bot<br>
-	- Data Analyser<br>
-	- Web Day<br>
-	- Custom Interpreter<br>
-	- Design Patterns<br>
-	- AMA<br>
-	- Mars Rover<br>
-	- Valid Binary String<br>
-	- Telephone Number<br>
-	- Monday<br>
-	- Scientific Notation<br>
-	- Long Adder<br>
-	- Simple Search Engine<br>
-	- 2D Web Game<br>
-	- Vowels<br>
-	- IPA Voice Synthesis<br>
-	- Mutant Hash Table<br>
-	- Chess Engine<br>
-	- Defend the Base<br>
-	- The Crypto-Cube<br>
-	- Candy Robots<br>
-	- FIFA World Cub 2018<br>
-	- Crack the Code<br>
-	- Hack the Server<br>
-	- Histogram<br>
-	- Paranoia<br>
-	- Clock Hands<br>
-	- Remove/Replace Special Characters<br>
-	- Gallery<br>
-	- Sound Album<br>
-	- ASCII demo<br>
-	- Creating a character with just HTML/CSS<br>
-	- Dynamic Search Bar<br>
-	- Roman Numerals<br>
-	- Number to Text Converter<br>
+	- Alchemy game<br>
+	- Morse Telegraphy<br>
+	- Telex system<br>
+	- Telephone system<br>
+	- Braille<br>
+	- Frequency counter<br>
+	- Base converter<br>
+	- Joy.js interactible lessons<br>
+	- Interpreter<br>
+	- Compiler<br>
+	- Phonebook<br>
+	- Tracker<br>
+	- Rover<br>
+	- Search engine<br>
+	- Conlang<br>
+	- Computer system<br>
+	- Website<br>
+	[...]<br>
 <br>
-# Maskutchew, an artlang<br>
+# Maskutchew,-an-artlang<br>
 First purpose: Iterating on ideas I get to think or whisper to myself about without disturbing anyone aka thinking politely for autistic personalities<br>
 ## Inspirations
 German, 
@@ -202,4 +169,3 @@ Worldbuilding Notes on YT<br>
 Esperantanaso on YT?<br>
 Microlearning app?<br>
 [...]<br>
-
