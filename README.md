@@ -131,7 +131,7 @@
 	- Website<br>
 	[...]<br>
 <br>
-# Maskutchew,-an-artlang<br>
+# Maskutchew-a-artlang<br>
 First purpose: Iterating on ideas I get to think or whisper to myself about without disturbing anyone aka thinking politely for autistic personalities<br>
 ## Inspirations
 German, 
