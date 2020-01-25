@@ -131,25 +131,3 @@
 	- Website<br>
 	[...]<br>
 <br>
-
-# elegant booksword
-## Template:
-Phonology<br>
-Phonotactics<br>
-Vocabulary/Lexicon<br>
-Grammar<br>
-Writing system(s)<br>
-Written form practicing<br>
-Oral form practicing<br>
-[...]<br><br>
-## outside resources:
-Mark Rosenfelder's LCK<br>
-Quora<br>
-Artifexian on YT<br>
-Biblaridion on YT<br>
-Conlang Critic on YT<br>
-David Peterson on YT<br>
-Worldbuilding Notes on YT<br>
-Esperantanaso on YT?<br>
-Microlearning app?<br>
-[...]<br>
